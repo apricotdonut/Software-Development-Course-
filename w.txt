@@ -1,0 +1,15 @@
+User: w
+DOOR
+Mode: 5
+Atrial Pulse Amplitude(V): 5.0
+Atrial Pulse Width(ms): 1
+Ventricular Pulse Amplitude(V): 5.0
+Ventricular Pusle Width(ms): 1
+Fixed AV Delay(ms): 150
+Lower Rate Limit(ppm): 60
+Rate Adaptivity: 1 
+Maximum Sensor Rate(ppm): 120
+Activity Threshold: 0.4
+Reaction Time(s): 30
+Recovery Time(min): 5
+Response Factor: 8
